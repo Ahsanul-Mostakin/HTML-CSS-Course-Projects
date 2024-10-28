@@ -1,7 +1,7 @@
 # HTML-CSS-Course-Projects
 A collection of HTML and CSS projects, examples, and resources for the 'Master HTML and CSS course.
 
-# HTML and CSS Mastery: Course Projects and Resources
+# HTML and CSS Mastery: Course Projects
 
 Welcome to the repository for the **"Master HTML and CSS: Create Stunning Websites with Confidence"** course on Udemy.
 
