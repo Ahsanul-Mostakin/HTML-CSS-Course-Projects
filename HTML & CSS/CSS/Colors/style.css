@@ -26,3 +26,35 @@ p {
     color: chocolate;
     background-color: darkgray;
 }
+
+div {
+    background-color: aqua;
+    opacity: 40%;
+  }
+  
+  .dotted {
+    border-style: dotted;
+    width: 200px;
+    height: 20px;
+    border-color: blue;
+  }
+  
+  .solid {
+    border-style: solid;
+    width: 500px;
+    height: 10px;
+    border-color: cornsilk;
+  }
+  
+  .double {
+    border-style: double;
+  }
+  
+  #inset {
+    border-style: inset;
+    border-color: darkgreen;
+  }
+  
+  #outset {
+    border-style: outset;
+  }
